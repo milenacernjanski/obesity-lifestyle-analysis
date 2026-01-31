@@ -1,6 +1,6 @@
 # Obesity & Lifestyle Factors Analysis
 
-![Obesity Analysis Visualization](images/obesity_visualization.png)
+![Obesity Analysis Visualization](mics-2025-banner.png)
 
 ## Project Overview
 This project explores the relationship between lifestyle behaviors and obesity levels using a structured obesity dataset that includes dietary habits, physical activity, and demographic factors. The goal is to identify patterns and behaviors that are most strongly associated with increased obesity risk.
